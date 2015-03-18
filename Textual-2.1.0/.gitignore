@@ -1,0 +1,14 @@
+.DS_Store
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspectivev3
+*.pyc
+build/
+*~
+Debug.xcconfig
+Resources/Plugins/Compiled
+.LSOverride
+xcuserdata
+Frameworks/Blowfish/BlowfishEncryption.framework
+Frameworks/Adium/AutoHyperlinks/AutoHyperlinks.framework

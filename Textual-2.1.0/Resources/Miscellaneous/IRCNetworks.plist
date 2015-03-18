@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Foonet</key>
+	<string>irc.foonet.org</string>
+	<key>DALnet</key>
+	<string>irc.dal.net</string>
+	<key>EFnet</key>
+	<string>irc.efnet.org</string>
+	<key>Freenode</key>
+	<string>chat.freenode.net</string>
+	<key>IRCNet</key>
+	<string>ircnet.choopa.net</string>
+	<key>QuakeNet</key>
+	<string>irc.quakenet.org</string>
+	<key>Rizon</key>
+	<string>irc.rizon.net</string>
+	<key>Undernet</key>
+	<string>irc.undernet.org</string>
+	<key>OFTC</key>
+	<string>irc.oftc.net</string>
+</dict>
+</plist>
